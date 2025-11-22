@@ -1,11 +1,5 @@
 # 📚 FYP Handbook RAG Assistant
 
-**Assignment:** Text-only RAG pipeline for FAST-NUCES FYP Handbook  
-**Course:** Final Year Project (FYP)  
-**Institution:** FAST-NUCES
-
----
-
 ## 🎯 Overview
 
 A Retrieval-Augmented Generation (RAG) system that answers student questions about the FAST-NUCES Final Year Project process using the BS FYP Handbook 2023 as the sole knowledge base.
