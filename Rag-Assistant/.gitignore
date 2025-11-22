@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Generated Data Files
+data/chunks.json
+data/embeddings/
+*.pkl
+*.index
+
+# Logs
+logs/*.txt
+!logs/.gitkeep
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Distribution
+build/
+dist/
+*.egg-info/
+
+# Large files (optional - uncomment to track in Git)
+# data/handbook.pdf
+
+# Documentation drafts
+# docs/design_note.pdf
+# docs/screenshots/
